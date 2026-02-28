@@ -1,5 +1,4 @@
 # AI-Powered Customer Inquiry Chatbot
-Automated discount approval workflow using Microsoft Power Platform to streamline sales processes and improve governance.
 
 ## Overview
 This project involved designing an AI-powered chatbot to handle repetitive customer inquiries for a Spa & Fitness Center. The goal was to improve response time, reduce staff workload, and enhance customer experience.
@@ -7,15 +6,23 @@ This project involved designing an AI-powered chatbot to handle repetitive custo
 ---
 
 ## Business Problem
-- High volume of repetitive inquiries via website  
-- Delayed responses and reduced customer satisfaction  
-- Staff overload  
-- Missed inquiry opportunities  
+A Spa & Fitness Center received high volumes of repetitive inquiries through their website, including:
+
+- Pricing requests
+- Service availability
+- Booking questions
+- Operating hours
+
+Manual handling led to:
+- Delayed responses
+- Reduced customer satisfaction
+- Staff overload
+- Missed inquiry opportunities 
 
 ---
 
 ## Objective
-Automate standard customer inquiries while maintaining service quality and structured tracking.
+Design a conversational automation solution to handle common customer inquiries while maintaining service quality and structured tracking.
 
 ---
 
